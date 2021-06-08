@@ -1,1 +1,1 @@
-The README file for the 0x03-git repo
+The **README file** for the 0x03-git repo
